@@ -1,0 +1,16 @@
+{
+  "name": "three-system",
+  "repo": "nomilous/three-system",
+  "description": "three.j",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "nomilous/three": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
